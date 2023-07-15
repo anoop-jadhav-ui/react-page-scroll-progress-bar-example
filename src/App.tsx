@@ -14,7 +14,7 @@ export default function App() {
         bgColor="#f2f2f2"
         height="8px"
       />
-      <h1>Hello StackBlitz!</h1>
+      <h1>Start Scrolling</h1>
       <p>
         What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing
         and typesetting industry. Lorem Ipsum has been the industry's standard
